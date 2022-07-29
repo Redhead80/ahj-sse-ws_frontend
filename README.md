@@ -1,7 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/g8r8sxn4taikanl4/branch/master?svg=true)](https://ci.appveyor.com/project/Redhead80/ahj-sse-ws-frontend/branch/master)
 
 
-[GitHub Pages](https://evgeniy-27.github.io/ahj-sse-ws_frontend/)
+[GitHub Pages](https://redhead80.github.io/ahj-sse-ws_frontend/)
 
 ## Чат
 
