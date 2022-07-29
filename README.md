@@ -1,4 +1,6 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/8y406iu1exv3xee8?svg=true)](https://ci.appveyor.com/project/Evgeniy-27/ahj-sse-ws-frontend)
+[![Build status](https://ci.appveyor.com/api/projects/status/g8r8sxn4taikanl4/branch/master?svg=true)]
+(https://ci.appveyor.com/project/Redhead80/ahj-sse-ws-frontend/branch/master)
+
 
 [GitHub Pages](https://evgeniy-27.github.io/ahj-sse-ws_frontend/)
 
