@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Evgeniy-27/ahj-sse-ws_frontend.git"
+    "url": "git+https://github.com/Redhead80/ahj-sse-ws_frontend.git"
   },
-  "author": "Evgeniy-27",
+  "author": "Redhead80",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Evgeniy-27/ahj-sse-ws_frontend/issues"
+    "url": "https://github.com/Redhead80/ahj-sse-ws_frontend/issues"
   },
-  "homepage": "https://github.com/Evgeniy-27/ahj-sse-ws_frontend#readme",
+  "homepage": "https://github.com/Redhead80/ahj-sse-ws_frontend#readme",
   "devDependencies": {
     "@babel/cli": "^7.12.1",
     "@babel/core": "^7.12.3",
